@@ -1,17 +1,17 @@
-first_number = int(input("First number: "))
-second_number = int(input("Second number: "))
-biggest_number = 0;
-
-if first_number < 0:
-    first_number *= -1
-
-if second_number < 0:
-    second_number *= -1
-
-if first_number > second_number:
-    biggest_number = first_number
-
-if second_number > first_number:
-    biggest_number = second_number
-
-print("The answer for the numbers", first_number, "and", second_number, "=", biggest_number)
+number1 = int(input('First number: '))
+number2 = int(input('Second number: '))
+if number1 == number2:
+    output = 0
+else:
+    if number1 % 5 == number2 % 5 == 0:
+        # or    if number1 % 5 == 0 and number2 %5 == 0
+        if number1 < number2:
+            output = number1
+        else:
+            output = number2
+    else:
+        if number1 > number2:
+            output = number1
+        else:
+            output = number2
+print('The answer for the numbers', number1, 'and', number2, '=', output)
