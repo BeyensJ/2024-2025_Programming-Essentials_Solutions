@@ -1,0 +1,111 @@
+countries:
+  - name: United Kingdom
+    parks:
+      - name: Alton Towers
+        location: Staffordshire, England
+        ride_types:
+          - name: Roller Coaster
+            rollercoasters:
+              - name: The Smiler
+                type: steel coaster
+                height: 30 meters
+                speed: 85 km/h
+                year_built: 2013
+                wait_time: 45 minutes
+                details: |
+                  The Smiler holds the world record for the highest number of inversions on a roller coaster with 14 inversions.
+  - name: Germany
+    parks:
+      - name: Phantasialand
+        location: Brühl, Germany
+        ride_types:
+          - name: Multi-launched Coaster
+            rollercoasters:
+              - name: Taron
+                type: multi-launched coaster
+                height: 30 meters
+                speed: 117 km/h
+                year_built: 2016
+                wait_time: 60 minutes
+                details: |
+                  Taron is known for its intense ride with fast accelerations and sharp turns.
+  - name: Netherlands
+    parks:
+      - name: Efteling
+        location: Kaatsheuvel, Netherlands
+        ride_types:
+          - name: Wooden Coaster
+            rollercoasters:
+              - name: Joris en de Draak
+                type: wooden coaster
+                height: 25 meters
+                speed: 75 km/h
+                year_built: 2010
+                wait_time: 50 minutes
+                details: |
+                  Joris en de Draak is a wooden dueling coaster with two parallel tracks.
+  - name: France
+    parks:
+      - name: Disneyland Paris
+        location: Marne-la-Vallée, France
+        ride_types:
+          - name: Space-themed Coaster
+            rollercoasters:
+              - name: Space Mountain Mission 2
+                type: steel coaster
+                height: 32 meters
+                speed: 70 km/h
+                year_built: 2005
+                wait_time: 55 minutes
+                details: |
+                  Space Mountain: Mission 2 has a futuristic theme and multiple launches.
+          - name: Family Coaster
+            rollercoasters:
+              - name: Big Thunder Mountain
+                type: mine-themed coaster
+                height: 22 meters
+                speed: 60 km/h
+                year_built: 1992
+                wait_time: 40 minutes
+                details: |
+                  Big Thunder Mountain is a wild ride through an abandoned mine.
+  - name: Sweden
+    parks:
+      - name: Liseberg
+        location: Gothenburg, Sweden
+        ride_types:
+          - name: Giga Coaster
+            rollercoasters:
+              - name: Helix
+                type: giga coaster
+                height: 41 meters
+                speed: 100 km/h
+                year_built: 2014
+                wait_time: 65 minutes
+                details: |
+                  Helix is a modern coaster with multiple inversions and launches.
+          - name: Wooden Coaster
+            rollercoasters:
+              - name: Balder
+                type: wooden coaster
+                height: 33 meters
+                speed: 90 km/h
+                year_built: 2003
+                wait_time: 50 minutes
+                details: |
+                  Balder is known for its smooth ride and the notable absence of traditional brakes.
+  - name: Italy
+    parks:
+      - name: Gardaland
+        location: Castelnuovo del Garda, Italy
+        ride_types:
+          - name: Wing Coaster
+            rollercoasters:
+              - name: Raptor
+                type: wing coaster
+                height: 33 meters
+                speed: 92 km/h
+                year_built: 2011
+                wait_time: 45 minutes
+                details: |
+                  Raptor is a wing coaster with seats hanging beside the track for a unique experience.

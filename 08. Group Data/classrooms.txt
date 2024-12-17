@@ -1,0 +1,28 @@
+Craane;Nathan;F013
+Desmyter;Cedric;F013
+Paepen;Alexander;F013
+Spruyt;Philip;F013
+Van Diepen;Evans;F013
+Van Gansberghe;Laurens;F013
+Vermote;Jason;F013
+Cloots;Carl;P108Z
+Craane;Lukas;P108Z
+Dierckx;Sam;P108Z
+Dierckx;Pieter;P108Z
+Haagen;Diederick;P108Z
+Plu;Yves;P108Z
+Silkens;Bart;P108Z
+Snoeks;Ward;P108Z
+Van Roey;Selina;P108Z
+Van Werde;Brent;P108Z
+Wezenbeek;Timmy;P108Z
+Branders;Danny;B203
+De Cock;Kevin;B203
+De Cort;Steffie;B203
+De Laet;Pieter;B203
+Jochems;Frank;B203
+Linten;Rob;B203
+Tubbax;Kevin;B203
+Valgaeren;Vincent;B203
+Van den Berg;Jasper;B203
+

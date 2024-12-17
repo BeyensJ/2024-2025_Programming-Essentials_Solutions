@@ -1,0 +1,93 @@
+{
+   "courses": [
+      {
+         "name": "Python",
+         "groups": [
+            {
+               "name": "1 ITF 01",
+               "students": 32
+            },
+            {
+               "name": "1 ITF 02",
+               "students": 29
+            },
+            {
+               "name": "1 ITF 03",
+               "students": 34
+            },
+            {
+               "name": "1 ITF 04",
+               "students": 30
+            },
+            {
+               "name": "1 ITF 05",
+               "students": 31
+            },
+            {
+               "name": "1 ITF 06",
+               "students": 34
+            },
+            {
+               "name": "1 ACS",
+               "students": 27
+            },
+            {
+               "name": "2 ACS",
+               "students": 31
+            }
+         ]
+      },
+      {
+         "name": "API Development",
+         "groups": [
+            {
+               "name": "2 CCS 01",
+               "students": 27
+            },
+            {
+               "name": "2 CCS 02",
+               "students": 25
+            }
+         ]
+      },
+      {
+         "name": "Artificial Intelligence",
+         "groups": [
+            {
+               "name": "3 APP 01",
+               "students": 31
+            },
+            {
+               "name": "3 APP 02",
+               "students": 34
+            }
+         ]
+      },
+      {
+         "name": "Artificial Intelligence Project",
+         "groups": [
+            {
+               "name": "3 AI",
+               "students": 49
+            }
+         ]
+      },
+      {
+         "name": "Data Science",
+         "groups": [
+            {
+               "name": "2 APPAI 01",
+               "students": 45
+            },
+            {
+               "name": "2 APPAI 02",
+               "students": 39
+            },
+            {
+               "name": "2 ACS",
+               "students": 21
+            }
+         ]
+      }
+   ]
+}

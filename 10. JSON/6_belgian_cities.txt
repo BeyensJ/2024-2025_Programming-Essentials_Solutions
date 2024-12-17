@@ -1,0 +1,4 @@
+name;population;official_language;landmarks;is_capital
+Brussels;1208542;Dutch, French;Grand Place,Atomium,Manneken Pis;Y
+Antwerp;525935;Dutch;Cathedral of Our Lady,Antwerp Zoo,MAS Museum;N
+Ghent;26219;Dutch;Gravensteen Castle,Saint Bavo's Cathedral,Graslei and Korenlei;N

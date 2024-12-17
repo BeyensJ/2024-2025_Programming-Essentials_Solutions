@@ -1,0 +1,4 @@
+horse;whinnying
+cat;meows
+dog;barks
+cow;mooing

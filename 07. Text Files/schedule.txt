@@ -1,0 +1,9 @@
+08/01;Application development in Python;08:30
+
+10/01;Network essentials;13:00
+
+14/01;Webdesign essentials;08:30
+16/01;English;08:30
+21/01;Linux essentials;13:00
+
+23/01;Project 1;08:30
